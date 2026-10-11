@@ -48,15 +48,4 @@
 </li>
 
    
-  <h3>Nivel de Experiencia</h3>
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=java" width="40" alt="java"/><br>Java</td>
-      <td>████▒▒▒▒▒▒▒▒▒ (25%)</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=c" width="40" alt="c"/><br>C</td>
-      <td>████▒▒▒▒▒▒▒▒▒ (25%)</td>
-    </tr>
-  </table>
-</div>
+ 
